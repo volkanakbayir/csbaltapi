@@ -1,0 +1,11 @@
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\bin\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.deps.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\bin\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.runtimeconfig.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\bin\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.runtimeconfig.dev.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\bin\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\obj\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.csprojResolveAssemblyReference.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\obj\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.csproj.CoreCompileInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\obj\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.AssemblyInfoInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\obj\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.AssemblyInfo.cs
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\bin\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.pdb
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\obj\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.ClientMvc\obj\Debug\netcoreapp2.0\Csb.Hiss.ClientMvc.pdb

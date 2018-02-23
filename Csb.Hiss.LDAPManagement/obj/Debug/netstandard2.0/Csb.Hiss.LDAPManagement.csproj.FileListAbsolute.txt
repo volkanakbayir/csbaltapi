@@ -1,0 +1,9 @@
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\bin\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.deps.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\bin\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\obj\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.csprojResolveAssemblyReference.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\obj\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.csproj.CoreCompileInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\obj\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.AssemblyInfoInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\obj\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.AssemblyInfo.cs
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\bin\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.pdb
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\obj\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.LDAPManagement\obj\Debug\netstandard2.0\Csb.Hiss.LDAPManagement.pdb

@@ -1,0 +1,13 @@
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.Oys.deps.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.Oys.runtimeconfig.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.Oys.runtimeconfig.dev.json
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.Oys.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\obj\Debug\netcoreapp2.0\Csb.Hiss.Oys.csprojResolveAssemblyReference.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\obj\Debug\netcoreapp2.0\Csb.Hiss.Oys.csproj.CoreCompileInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\obj\Debug\netcoreapp2.0\Csb.Hiss.Oys.AssemblyInfoInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\obj\Debug\netcoreapp2.0\Csb.Hiss.Oys.AssemblyInfo.cs
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.Oys.pdb
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\obj\Debug\netcoreapp2.0\Csb.Hiss.Oys.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\obj\Debug\netcoreapp2.0\Csb.Hiss.Oys.pdb
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.LDAPManagement.dll
+C:\Projects\oauth\Csb.Hiss.Oys\Csb.Hiss.Oys\bin\Debug\netcoreapp2.0\Csb.Hiss.LDAPManagement.pdb

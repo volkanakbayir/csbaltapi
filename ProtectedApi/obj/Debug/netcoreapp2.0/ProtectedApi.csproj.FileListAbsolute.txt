@@ -1,0 +1,11 @@
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\bin\Debug\netcoreapp2.0\ProtectedApi.deps.json
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\bin\Debug\netcoreapp2.0\ProtectedApi.runtimeconfig.json
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\bin\Debug\netcoreapp2.0\ProtectedApi.runtimeconfig.dev.json
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\bin\Debug\netcoreapp2.0\ProtectedApi.dll
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\obj\Debug\netcoreapp2.0\ProtectedApi.csprojResolveAssemblyReference.cache
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\obj\Debug\netcoreapp2.0\ProtectedApi.csproj.CoreCompileInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\obj\Debug\netcoreapp2.0\ProtectedApi.AssemblyInfoInputs.cache
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\obj\Debug\netcoreapp2.0\ProtectedApi.AssemblyInfo.cs
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\bin\Debug\netcoreapp2.0\ProtectedApi.pdb
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\obj\Debug\netcoreapp2.0\ProtectedApi.dll
+C:\Projects\oauth\Csb.Hiss.Oys\ProtectedApi\obj\Debug\netcoreapp2.0\ProtectedApi.pdb
